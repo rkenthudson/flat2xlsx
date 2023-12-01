@@ -1,0 +1,19 @@
+{ 
+  "bills": {
+    "dsn": "",
+    "connection" : {
+        "driver" : "",
+        "server" : "",
+        "db" : "",
+        "trusted" : true,
+        "user" : "",
+        "password" : ""
+    },
+    "files": {
+        "input": "F:/clients/lisle/data/ubdtaprs_with_owners.dat",
+        "output": "F:/clients/lisle/data/ubdtaprs_with_owners_to_excel.xlsx",
+        "sql": "",
+        "template": "F:/clients/lisle/data/Standard_Bill_Print_Layout_Owners.xlsx"
+     }
+  }
+}
